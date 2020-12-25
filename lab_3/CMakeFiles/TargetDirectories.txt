@@ -1,0 +1,5 @@
+/Users/alexander/Documents/BMSTU/network/lab_3/CMakeFiles/rebuild_cache.dir
+/Users/alexander/Documents/BMSTU/network/lab_3/CMakeFiles/edit_cache.dir
+/Users/alexander/Documents/BMSTU/network/lab_3/CMakeFiles/app.dir
+/Users/alexander/Documents/BMSTU/network/lab_3/CMakeFiles/cli.dir
+/Users/alexander/Documents/BMSTU/network/lab_3/CMakeFiles/socket_lib.dir

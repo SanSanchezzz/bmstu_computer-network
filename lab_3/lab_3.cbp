@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lab_3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/alexander/Documents/BMSTU/network/lab_3"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/alexander/Documents/BMSTU/network/lab_3"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/alexander/Documents/BMSTU/network/lab_3"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="app">
+				<Option output="/Users/alexander/Documents/BMSTU/network/lab_3/app" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alexander/Documents/BMSTU/network/lab_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 app"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="app/fast">
+				<Option output="/Users/alexander/Documents/BMSTU/network/lab_3/app" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alexander/Documents/BMSTU/network/lab_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 app/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cli">
+				<Option output="/Users/alexander/Documents/BMSTU/network/lab_3/cli" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alexander/Documents/BMSTU/network/lab_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 cli"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cli/fast">
+				<Option output="/Users/alexander/Documents/BMSTU/network/lab_3/cli" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alexander/Documents/BMSTU/network/lab_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 cli/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="socket_lib">
+				<Option output="/Users/alexander/Documents/BMSTU/network/lab_3/libsocket_lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alexander/Documents/BMSTU/network/lab_3"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 socket_lib"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="socket_lib/fast">
+				<Option output="/Users/alexander/Documents/BMSTU/network/lab_3/libsocket_lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alexander/Documents/BMSTU/network/lab_3"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 socket_lib/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/alexander/Documents/BMSTU/network/lab_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/alexander/Documents/BMSTU/network/lab_3/client/client.cpp">
+			<Option target="cli"/>
+		</Unit>
+		<Unit filename="/Users/alexander/Documents/BMSTU/network/lab_3/server/a.cpp">
+			<Option target="app"/>
+		</Unit>
+		<Unit filename="/Users/alexander/Documents/BMSTU/network/lab_3/server/a.h">
+			<Option target="app"/>
+		</Unit>
+		<Unit filename="/Users/alexander/Documents/BMSTU/network/lab_3/server/engine.h">
+			<Option target="app"/>
+		</Unit>
+		<Unit filename="/Users/alexander/Documents/BMSTU/network/lab_3/server/main.cpp">
+			<Option target="app"/>
+		</Unit>
+		<Unit filename="/Users/alexander/Documents/BMSTU/network/lab_3/server/poll_async.h">
+			<Option target="app"/>
+		</Unit>
+		<Unit filename="/Users/alexander/Documents/BMSTU/network/lab_3/server/server.h">
+			<Option target="app"/>
+		</Unit>
+		<Unit filename="/Users/alexander/Documents/BMSTU/network/lab_3/socket/Socket.cpp">
+			<Option target="socket_lib"/>
+		</Unit>
+		<Unit filename="/Users/alexander/Documents/BMSTU/network/lab_3/socket/Socket.h">
+			<Option target="socket_lib"/>
+		</Unit>
+		<Unit filename="/Users/alexander/Documents/BMSTU/network/lab_3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
